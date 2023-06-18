@@ -1,17 +1,17 @@
 @font-face {
   font-family: "Dida";
-  src: url(Fonts/DIda/Dida.otf);
+  src: url(/Fonts/DIda/Dida.otf);
 
   font-family: "Neue montreal";
-  src: url(Fonts/Neue-montreal/NeueMontreal-Medium.otf);
+  src: url(/Fonts/Neue-montreal/NeueMontreal-Medium.otf);
   font-weight: 400;
 
   font-family: "Neue montreal";
-  src: url(Fonts/Neue-montreal/NeueMontreal-Regular.otf);
+  src: url(/Fonts/Neue-montreal/NeueMontreal-Regular.otf);
   font-weight: 100;
 
   font-family: "Monopop";
-  src: url(Fonts/Monopop/Monopop-Regular.otf);
+  src: url(/Fonts/Monopop/Monopop-Regular.otf);
 }
 
 * {
